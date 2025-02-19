@@ -1,3 +1,5 @@
+# Elias André Willumsen
+
 Familiar with **Lua**, **Java**, **Python**, and **SQL**.
 
 <p align="left">
@@ -12,8 +14,16 @@ Familiar with **Lua**, **Java**, **Python**, and **SQL**.
   <a href="https://www.python.org/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="80" alt="Python">
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.mysql.com/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sql_data_base_with_logo.svg" height="80" alt="SQL">
+  </a>
 </p>
 
 ## About me
 
-Systems engineering student😘
+Systems engineering student at Norwegian University of Science and Technology😘
+
+## Contact
+
+E-mail: eliasaw@stud.ntnu.no
