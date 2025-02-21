@@ -1,6 +1,6 @@
 # Elias André Willumsen
 
-Tech I have worked with:
+#### Tech I have worked with:
 **Lua**, **Java**, **Python**, **SQL**, **HTML5** and **CSS3**.
 
 <p align="left">
