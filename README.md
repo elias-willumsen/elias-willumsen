@@ -1,7 +1,7 @@
 # Elias André Willumsen
 
 #### Tech I have worked with:
-**Lua**, **Java**, **Python**, **SQL**, **HTML5** and **CSS3**.
+**Lua**, **Java**, **Python**, **SQL**, **HTML5**, **CSS3** and **Apache Maven**.
 
 <p align="left">
   <a href="https://www.lua.org/">
@@ -27,7 +27,10 @@
   <a href="">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="80" alt="CSS3">
   </a>
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://maven.apache.org/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Apache_Maven_logo.svg" height="80" alt="CSS3">
+  </a>
 </p>
 
 ## About me
