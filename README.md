@@ -35,7 +35,7 @@
 
 ## About me
 
-Systems engineering student at Norwegian University of Science and Technology😘
+Computer Science student specializing in Software Engineering at Norwegian University of Science and Technology😘
 
 ## Contact
 
