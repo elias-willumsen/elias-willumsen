@@ -35,7 +35,7 @@
 
 ## About me
 
-Computer Science student specializing in Software Engineering at Norwegian University of Science and Technology😘
+Software Engineering student majoring in Computer Science at Norwegian University of Science and Technology😘
 
 ## Contact
 
